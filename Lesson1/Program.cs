@@ -20,6 +20,7 @@ int number2 = Convert.ToInt32(Console.ReadLine());
         }
         
      
+ Console.ReadKey();
         
                   
         
